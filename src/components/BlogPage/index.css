@@ -1,0 +1,22 @@
+.blog-bg {
+  display: flex;
+}
+.slide {
+  width: 35%;
+  background-color: bisque;
+  padding: 10px;
+}
+.creat {
+  background-color: rgb(153, 177, 169);
+  border-width: 0px;
+  color: #fff;
+  padding: 8px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.blogsList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

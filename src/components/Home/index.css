@@ -1,0 +1,35 @@
+.home-bg {
+  background-image: url('https://img.freepik.com/free-vector/dark-blue-memphis-facebook-story-background-vector_53876-162121.jpg?w=360&t=st=1694101572~exp=1694102172~hmac=4ea9f9a4c18d3f4a4edd9c1d3892cab1922dfe8e127386111f309a96d580aeec');
+  background-size: cover;
+  height: 100vh;
+  padding: 3px;
+}
+.blog-but {
+  background-color: #0fccee;
+  color: #fff;
+  padding: 5px;
+  margin-top: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.home-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.head {
+  color: #e6f514;
+}
+.blog-img {
+  height: 300px;
+  width: 400px;
+}
+.login-but {
+  background-color: #7cacb4;
+  color: #fff;
+  padding: 5px;
+  margin-top: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  width: 110px;
+}

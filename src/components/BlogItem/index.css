@@ -1,0 +1,21 @@
+.item-image {
+  height: 200px;
+  width: 200px;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+}
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.item-link {
+  color: #000;
+  text-decoration: none;
+}
+.item-title {
+  max-width: 250px;
+}

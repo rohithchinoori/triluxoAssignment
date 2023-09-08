@@ -1,0 +1,8 @@
+.blog-info {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.blog-content {
+  max-width: 60%;
+}
